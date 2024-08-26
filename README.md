@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahima Nishad
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Java Full Stack development.
-- 📫 How to reach me linledin @llmahima
+- 📫 How to reach me linkedin @llmahima
 - ⚡ Fun fact: ...NASA uses GitHub to share software used in space exploration with the public!
 
 <!---
